@@ -1,3 +1,4 @@
+center,left,right,steering,throttle,brake,speed
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_18_442.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_18_442.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_18_442.jpg,0,0,0,21.76749
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_18_509.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_18_509.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_18_509.jpg,0,0,0,21.63508
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_18_576.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_18_576.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_18_576.jpg,0,0,0,21.45978
@@ -124,7 +125,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_132.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_132.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_132.jpg,0.1142762,0,0,18.46584
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_201.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_201.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_201.jpg,0.08833285,0,0,18.32376
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_272.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_272.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_272.jpg,0.0533977,0,0,17.70563
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_341.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_341.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_341.jpg,-0.0005527712,0,0,17.55774
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_341.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_341.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_341.jpg,-0.000552771,0,0,17.55774
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_409.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_409.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_409.jpg,-0.04554835,0,0,17.9662
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_479.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_479.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_479.jpg,-0.08004127,0,0,17.82121
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_27_546.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_27_546.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_27_546.jpg,-0.08700619,0,0,17.1844
@@ -197,7 +198,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_243.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_243.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_243.jpg,0.001510908,0,0,22.23087
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_314.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_314.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_314.jpg,0.001510908,0,0,22.03923
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_382.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_382.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_382.jpg,0.001510908,0,0,21.83853
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_452.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_452.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_452.jpg,-0.0008107311,0,0,21.82296
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_452.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_452.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_452.jpg,-0.000810731,0,0,21.82296
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_520.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_520.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_520.jpg,-0.01474057,0,0,21.65359
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_592.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_592.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_592.jpg,-0.02634876,0,0,21.37172
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_32_659.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_32_659.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_32_659.jpg,-0.04956515,0,0,21.19117
@@ -362,7 +363,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_43_806.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_43_806.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_43_806.jpg,0.003832547,0.657049,0,23.88004
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_43_874.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_43_874.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_43_874.jpg,0.003832547,0.4879,0,24.15806
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_43_944.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_43_944.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_43_944.jpg,0.003832547,0.238312,0,24.31422
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_44_017.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_44_017.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_44_017.jpg,0.003832547,0.0003970265,0,24.24146
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_44_017.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_44_017.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_44_017.jpg,0.003832547,0.000397027,0,24.24146
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_44_084.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_44_084.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_44_084.jpg,0.003832547,0,0,24.0905
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_44_155.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_44_155.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_44_155.jpg,0.003832547,0.1080719,0,23.9158
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_44_222.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_44_222.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_44_222.jpg,0.003832547,0.310617,0,23.9109
@@ -453,7 +454,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_220.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_220.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_220.jpg,0.001732016,0,0,18.71992
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_287.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_287.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_287.jpg,0.001732016,0,0,18.6052
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_355.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_355.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_355.jpg,0.001732016,0,0,18.45365
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_428.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_428.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_428.jpg,-0.0005896227,0,0,18.34361
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_428.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_428.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_428.jpg,-0.000589623,0,0,18.34361
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_499.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_499.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_499.jpg,-0.02771226,0,0,18.19684
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_572.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_572.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_572.jpg,-0.02771226,0,0,18.0717
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_27_50_642.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_27_50_642.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_27_50_642.jpg,-0.02771226,0,0,17.89125
@@ -688,7 +689,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_001.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_001.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_001.jpg,-0.2176076,0,0,19.02563
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_070.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_070.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_070.jpg,-0.1163031,0,0,18.96406
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_144.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_144.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_144.jpg,-0.02505896,0,0,18.81475
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_216.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_216.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_216.jpg,0.0009581369,0,0,18.65967
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_216.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_216.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_216.jpg,0.000958137,0,0,18.65967
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_288.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_288.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_288.jpg,0.06876474,0,0,18.46093
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_364.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_364.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_364.jpg,0.1432046,0,0,18.2998
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_07_433.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_07_433.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_07_433.jpg,0.1798349,0,0,18.24297
@@ -1060,7 +1061,7 @@
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_493.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_493.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_493.jpg,-0.05859375,0.560266,0,19.98956
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_562.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_562.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_562.jpg,0.00965507,0.330415,0,20.25925
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_631.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_631.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_631.jpg,0.00965507,0.1493168,0,20.04602
-/Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_700.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_700.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_700.jpg,-3.685142E-05,0,0,19.88865
+/Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_700.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_700.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_700.jpg,-3.69E-05,0,0,19.88865
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_769.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_769.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_769.jpg,-0.02719634,0,0,20.10332
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_845.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_845.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_845.jpg,-0.04193691,0,0,19.94543
 /Users/macbook/Desktop/IMG/center_2017_07_22_13_28_33_916.jpg,/Users/macbook/Desktop/IMG/left_2017_07_22_13_28_33_916.jpg,/Users/macbook/Desktop/IMG/right_2017_07_22_13_28_33_916.jpg,-0.04193691,0,0,19.79114
